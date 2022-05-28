@@ -9,8 +9,8 @@ Python Developer & Graphic Designer.
 *   🖥️  Check [my website](http://eitozx.github.io) to know more about me!
 *   ⚡  I watch anime,drama & play VALORANT, Krunker & Minecraft sometimes :>
 
-<img src="https://raw.githubusercontent.com/EitoZX/EitoZX/main/github-metrics.svg" alt="Detailed Summary" />
-
+<!-- <img src="https://raw.githubusercontent.com/EitoZX/EitoZX/master/github-metrics.svg" alt="Detailed Summary" /> -->
+![](github-metrics.svg)
 
 ### Skills
 
